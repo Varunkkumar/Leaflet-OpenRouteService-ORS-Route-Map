@@ -2,12 +2,6 @@
 
 An interactive map built with **[Leaflet.js](https://leafletjs.com/)** and **[OpenRouteService API](https://openrouteservice.org/)** that displays a driving route between two points.
 
-## 🚀 Demo
-Live Map (GitHub Pages): **[https://your-username.github.io/leaflet-ors-map/](https://your-username.github.io/leaflet-ors-map/)**  
-*(Replace with your actual GitHub Pages link)*
-
----
-
 ## 📌 Features
 - Interactive Leaflet map.
 - Background map tiles from **OpenStreetMap**.
